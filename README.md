@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @richard-james
 - 👀 I’m interested in User Experience Design and Front End Development
-- 🌱 I’m currently learning Javascript
